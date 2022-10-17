@@ -1,0 +1,1 @@
+printNthNode(root->right, index++);

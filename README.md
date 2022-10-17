@@ -1,31 +1,125 @@
-<h1 align='center'>First Contribution 🫂</h1>
-<p align='center'> <b>This project is for those who are new to open-source and looking for make their first contribution </b> <p>
+# 🎉DS-ALGO-22🎉
 
+This is a repository *entirely dedicated* to all kind of questions ranging from basic DSA to CP. It aims to provide a solution to different questions. These questions are from various coding platforms like Hackerrank, HackerEarth, Leetcode, Codechef, Codeforces, InterviewBit, AtCoder. It also consist [450 DSA Sheet](https://450dsa.com/).
+## 🎓Platforms To Be Considered 🎓
+
+- HackerRank
+- HackerEarth
+- Leetcode
+- Codechef
+- Codeforces 
+- InterviewBit
+- AtCoder
+
+## Languages To Be Considered 
+
+- C++
+- C
+- Python
+- Java
+- JavaScript
+--- 
+## ___For interaction and queries: ***[Join the community](https://discord.com/channels/@me)***___
 ---
-## Hacktoberfest
 
-You can contribute to this project under [Hacktoberfest 2022](https://hacktoberfest.com/) 💫
+# 🎇How To Contribute 🎇
 
-![image](https://user-images.githubusercontent.com/70385488/192114009-0830321a-d227-4a4d-8411-6c03b54d7ce6.png)
+***Read [contribution guidelines](./Contributing.md)***
 
-Hacktoberfest 2022 is finally here, and we're pretty excited about it. We think it's a great time to encourage, recognise and reward developers in the community who dedicate their time to creating for others.
+To start contributing, follow the below guidelines:
 
-Hacktoberfest is an annual festival hosted by DigitalOcean that takes place in the month of October to celebrate the open source community. As part of this 31-day celebration, contributors and open source maintainers are encouraged to work on open source projects and win swag to mark the occasion.
+🌟. Star🌟 the repo to appreciate the work.
 
-#### Tips for Contributors:
+0. Take a look at the existing issues or create your own issues. Wait for the Issue to be assigned to you after which you can start working on it.
 
-- PRs beyond our open issues are welcome but make sure your contributions are meaningful and beneficial to other users otherwise your PR may be closed and marked as ‘invalid’.
-- Issues before PRs. If you plan to make a contribution, please make sure there is an issue for it. You can either find an existing issue or open a new issue if none exists.
-- You are welcome to make your first contribution to this repo. You can also tackle other Hacktoberfest labelled issues.
+1. Find a question you can solve from any of these platforms.
+
+2. Open an issue.
+
+3. Get it assigned.
+
+4. Work on it i.e 
+   * Solve that question by yourself.
+   * Add it to your forked repo, if the folder doesn't exist create it first and then add your code.
+
+5. Make a pull request. 
+
+6. Wait for it to be merged 
+
+7. And WOAHLAAAAAAAA! 🎉 You contributed to this project.
 
 
+## 🎏 Steps For Making A Pull Request 🎏
 
-## How to contribute? 🧐
+**1.** **Fork** [this](https://github.com/kanak22/CP-DSA-Questions) repository.
 
-We recommend you to add new files of the code that you are familiar with, send message if you needed to be guided step by step to make your contribution.
+**2.** **Clone** your forked copy of the project.
 
-Once the pull request is merged, you will find your awesome contribution card on our website.
+```
+git clone https://github.com/your_username/CP-DSA-Questions
+```
 
-## Need help? 
-We have an awesome facebook community where you can ask your doubts and we will be there for your help and even you can help others to make their contribution 🫂.
+**3.** **Navigate** to the project directory :file_folder: .
+
+```
+cd CP-DSA-Questions
+```
+
+**4.** **Add a reference(remote)** to the original repository to get all the changes from the remote.
+
+```
+git remote add upstream https://github.com/kanak22/CP-DSA-Questions
+```
+
+**5.** **Check the remote** for this repository.
+
+```
+git remote -v
+```
+
+**6.**  Always take a pull from the upstream repository to your master branch to keep it at par with the main project **(updated repository)**.
+
+```
+git pull upstream main
+```
+
+**7.** **Create a new branch**.
+
+```
+git checkout -b <your_branch_name>
+```
+
+**8.** **Perform** your changes to the code base.
+
+**9.** **Track your changes**.
+
+```
+git add . 
+```
+
+**10.** **Commit** your changes.
+
+```
+git commit -m "Relevant message"
+```
+
+**11.** **Push** the committed changes in your branch to your remote repo.
+
+```
+git push -u origin <your_branch_name>
+```
+
+**12.** To create a pull request, click on `Compare and pull requests`.
+
+**13.** Add appropriate title and description to your pull request explaining your changes and efforts.
+
+**14.** Click on `Create Pull Request`.
+
+
+**15** 🎉 WOAHHHH!!!! 🎉 you made a pull request, Wait for it to get approved and merged 🤗🤗
+
+<p align="center"><img src="https://media.giphy.com/media/5T06ftQWtCMy0XFaaI/giphy.gif?cid=ecf05e47177480twu7lsjmuc468224osnvqmrj12wojrhl4o&rid=giphy.gif&ct=g" width = 90%></p>
+
+# 🎉🎉🎉🎉🎉🎉 ___HAPPY CONTRIBUTING!___ 🎉🎉🎉🎉🎉🎉
+
 

@@ -28,7 +28,7 @@ This is a repository *entirely dedicated* to all kind of questions ranging from 
 
 To start contributing, follow the below guidelines:
 
-🌟. Star🌟 the repo to appreciate the work.
+🌟 Star 🌟 the repo to appreciate the work.
 
 0. Take a look at the existing issues or create your own issues. Wait for the Issue to be assigned to you after which you can start working on it.
 
